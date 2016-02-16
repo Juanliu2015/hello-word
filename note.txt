@@ -13,3 +13,5 @@ GIT REVISION
 git diff
 git checkout HASH
 
+ADD TEAM MEMBER
+from setting, add collaborators
