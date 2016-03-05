@@ -18,3 +18,12 @@ from setting, add collaborators
 
 git pull
 
+#open a local html using chrome
+open -a Google\ Chrome index.html
+#open sdk manager
+./android sdk
+#copy one file to another directory
+cp -r android-23 /Users/juan
+#check disk usage
+df -h
+
